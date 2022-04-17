@@ -30,13 +30,13 @@ a:hover {
   background-color: #283148;
 }
 .astro1 {
-  position: fixed;
+  position: relative;
   float: left;
   left: 50px;
   top: 100px;
 }
 .astro3 {
-  position: fixed;
+  position: relative;
   float: right;
   right: 50px;
   top: 100px;
