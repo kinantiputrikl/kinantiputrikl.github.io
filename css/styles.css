@@ -1,0 +1,165 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Akshar", sans-serif;
+}
+h1 {
+  width: 20%;
+  margin: 0 auto 0 auto;
+}
+hr {
+  border: dotted #4D4C7D 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+h2 {
+  font-size: 48px;
+  color: #283148;
+}
+a {
+  color: white;
+  font-family: Poppins, sans-serif;
+  text-decoration: none;
+}
+a:hover {
+  color: #FFEBC1;
+}
+/***********************CLASS SELECTOR***************************/
+.top-container {
+  background-color: #283148;
+}
+.astro1 {
+  position: absolute;
+  float: left;
+  left: 25px;
+  top: 100px;
+}
+.astro3 {
+  position: absolute;
+  float: right;
+  right: 25px;
+  top: 100px;
+}
+.astro4 {
+  width: 100%;
+}
+.middle-container {
+  background-color: white;
+  margin: 100px 0;
+}
+.profilepic {
+  width: 300px;
+  height: 300px;
+  margin-top: 30px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.communication {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.teaching {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.education-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.shs {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.bachelor {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.work-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.hima {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.reproducate {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.bottom-container {
+  background-color: #283148;
+  padding: 50px 0 20px;
+}
+.copyright {
+  color: white;
+  padding: 20px 0;
+  font-size: 1rem;
+}
+.footer-link {
+  margin: 10px 20px;
+}
+.contact-message {
+  width: 50%;
+  margin: 40px auto 60px;
+}
+.btn {
+  background: #8eadc2;
+  background-image: -webkit-linear-gradient(top, #8eadc2, #315063);
+  background-image: -moz-linear-gradient(top, #8eadc2, #315063);
+  background-image: -ms-linear-gradient(top, #8eadc2, #315063);
+  background-image: -o-linear-gradient(top, #8eadc2, #315063);
+  background-image: linear-gradient(to bottom, #8eadc2, #315063);
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: Poppins;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #425866;
+  background-image: -webkit-linear-gradient(top, #425866, #6695b5);
+  background-image: -moz-linear-gradient(top, #425866, #6695b5);
+  background-image: -ms-linear-gradient(top, #425866, #6695b5);
+  background-image: -o-linear-gradient(top, #425866, #6695b5);
+  background-image: linear-gradient(to bottom, #425866, #6695b5);
+  text-decoration: none;
+}
+/***********************ID SELECTOR***************************/
+#greeting {
+  color: white;
+  font-size: 562.5%;
+}
+#name {
+  color: white;
+  font-size: 48px;
+}
+#current {
+  color: white;
+  font-size: 26px;
+  font-family: "Poppins", sans-serif;
+}
+#desc {
+  font-size: 20px;
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+}
