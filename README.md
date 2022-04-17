@@ -1,1 +1,1 @@
-# kinantiputrikl.github.io
+# kinantiputrikl.io
