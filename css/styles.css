@@ -32,13 +32,13 @@ a:hover {
 .astro1 {
   position: relative;
   float: left;
-  left: 50px;
+  left: 25px;
   top: 100px;
 }
 .astro3 {
   position: relative;
   float: right;
-  right: 50px;
+  right: 25px;
   top: 100px;
 }
 .astro4 {
